@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Deeraj Reddy 👋</h1>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" alt="Animated GIF" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated GIF" width="300" />
 </p>
 
 <p align="center">
